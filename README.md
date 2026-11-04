@@ -2,7 +2,7 @@
 
 Адаптивний односторінковий лендінг дизайн-агенції Keepsake за макетом у Figma (Desktop 1280, Tablet 768, Mobile 375, Mobile – menu open, UI states).
 
-- **Демо:** https://YOUR-USERNAME.github.io/landing-keepsake/
+- **Демо:**
 - **Макет Figma:** _додайте посилання на макет_
 
 ## Технології
